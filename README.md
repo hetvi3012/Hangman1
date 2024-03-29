@@ -20,9 +20,17 @@ This project implements a simple Hangman game where players guess letters to rev
 - Python 3.x installed on your system.
 - `tkinter` library (usually included in Python standard library).
 
-### Installation
 
-Clone the repository to your local machine:
+## How to Play
 
-```bash
-git clone https://github.com/yourusername/hangman.git
+1. **Launch the game** by running `code_1.py`.
+2. **Click on the letters** displayed on the screen to guess the hidden word.
+3. Each **incorrect guess** will bring the hangman closer to being hanged! Watch out!
+4. **Keep guessing** until you either reveal the entire word or run out of attempts.
+
+Enjoy the challenge and see if you can save the hangman from his fate!
+
+## Contributing
+
+Contributions are welcome! If you encounter any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
